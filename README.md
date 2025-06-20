@@ -1,6 +1,6 @@
 # px24 dev for Computer Vision JupyterLite Demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)]([https://jupyterlite.github.io/demo](https://px24-dev.github.io/px24-demo-custom-deployment/lab/index.html))
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)]([[https://jupyterlite.github.io/demo](https://px24-dev.github.io/px24-demo-custom-deployment/lab/index.html)](https://px24-dev.github.io/px24-demo-custom-deployment/lab/index.html)
 
 JupyterLite deployed as a static site to GitHub Pages, for px24 computer vision demo purposes.
 
